@@ -1,39 +1,101 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Centrifugal pump is a_________",
+        "answers": {
+          "a": "Turbomachinery",
+          "b": "Flow regulating device",
+          "c": "Drafting device",
+          "d": "Intercooling device"
+        },
+      
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+    
+      {
+        "question":"Turbomachines work under ________",
+        "answers":{
+          "a":"Newtons first law",
+          "b":"Newtons second law",
+          "c":"Newtons third law",
+          "d":"Kepler’s law"
+        },
+        "correctAnswer":"b",
+        "difficulty":"beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question":"The main function of centrifugal pumps are to ________",
+        "answers":{
+          "a":"Transfer speed",
+          "b":"Transfer pressure",
+          "c":"Transfer temperature",
+          "d":"Transfer energy"
+        },
+        "correctAnswer":"d",
+        "difficulty":"beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question":"Centrifugal pumps transfer energy from _______",
+        "answers":{
+          "a":"Rotor to fluid",
+          "b":"Fluid to rotor",
+          "c":"Draft to rotor",
+          "d":"Rotor to draft"
+          
+        },
+        "correctAnswer":"a",
+        "difficulty":"beginner"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      {
+        "question":"Find the discharge through totally drowned orifice of width 3.3 m if the difference of water levels on both side of the orifice be 50 cm. The height of water from to and bottom of the orifice are 2.25 m and 2.67 m respectively.",
+        "answers":{
+          "a":"2.8 m3/s",
+          "b":"2.7 m3/s",
+          "c":"2.6 m3/s",
+          "d":"2.5 m3/s"
+        },
+        "correctAnswer":"a",
+        "difficulty":"beginner"
+      },{
+        "question":"A rectangular orifice of 2 m width and 1.2 m deep is fitted in one side of large tank. The easier level on one side of the orifice is 3m above the top edge of the orifice while on the other side of the orifice the water level is 0.5 m below it’s top edge. Calculate discharge if Cd = .64",
+        "answers":{
+          "a": "4.95 m3/s",
+          "b": "5.67 m3/s",
+          "c": "3.56 m3/s",
+          "d": "6.75 m3/s"
+          
+        },
+        "correctAnswer":"a",
+        "difficulty":"beginner"
+      },
+      {
+        "question":"The time taken to empty the tank is independent of Cd but depends only on the height and acceleration due to gravity.",
+        "answers":{
+          "a":"True",
+          "b":"False"
+        },
+        "correctAnswer":"b",
+        "difficulty":"beginner"
+      },
+      {
+        "question":"The discharge rate is independent of the height difference and dependent only on the height.",
+        "answers":{
+          "a":"True",
+          "b":"False"
+        },
+        "correctAnswer":"b",
+        "difficulty":"beginner"
+      },
+      {
+        "question":"In case of submerged orifice the discharge is substantially dependent on temperature of fluid",
+        "answers":{
+          "a":"True",
+          "b":"False"
+        },"correctAnswer":"b",
+        "difficulty":"beginner"
+      }
+    ]
     }
-  ]
-}
