@@ -1,3 +1,1 @@
-### Aim of the experiment
-
-To study the characteristics of a centrifugal pump
+### To study the characteristics of a centrifugal pump
