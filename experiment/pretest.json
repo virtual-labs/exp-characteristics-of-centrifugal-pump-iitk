@@ -3,7 +3,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Centrifugal pump is a_________",
+      "question": "1. Centrifugal pump is a_________",
       "answers": {
         "a": "Turbomachinery",
         "b": "Flow regulating device",
@@ -16,7 +16,7 @@
     },
   
     {
-      "question":"Turbomachines work under ________",
+      "question":"2. Turbomachines work under ________",
       "answers":{
         "a":"Newtons first law",
         "b":"Newtons second law",
@@ -27,7 +27,7 @@
       "difficulty":"beginner"
     },
     {
-      "question":"The main function of centrifugal pumps are to ________",
+      "question":"3. The main function of centrifugal pumps are to ________",
       "answers":{
         "a":"Transfer speed",
         "b":"Transfer pressure",
@@ -38,7 +38,7 @@
       "difficulty":"beginner"
     },
     {
-      "question":"Centrifugal pumps transfer energy from _______",
+      "question":"4. Centrifugal pumps transfer energy from _______",
       "answers":{
         "a":"Rotor to fluid",
         "b":"Fluid to rotor",
@@ -50,7 +50,7 @@
       "difficulty":"beginner"
     },
     {
-      "question":"Which among the following control the flow rate?",
+      "question":"5. Which among the following control the flow rate?",
       "answers":{
         "a":"Valve",
         "b":"Pump",
@@ -60,7 +60,7 @@
       "correctAnswer":"a",
       "difficulty":"beginner"
     },{
-      "question":"The inlet passage of water entry is controlled by ________",
+      "question":"6. The inlet passage of water entry is controlled by ________",
       "answers":{
         "a": "Head race",
         "b": "Gate",
@@ -72,7 +72,7 @@
       "difficulty":"beginner"
     },
     {
-      "question":"Centrifugal pumps are used to transport ________",
+      "question":"7. Centrifugal pumps are used to transport ________",
       "answers":{
         "a":"Pressure",
         "b":"Speed",
@@ -83,7 +83,7 @@
       "difficulty":"beginner"
     },
     {
-      "question":"Centrifugal pumps transport fluids by converting _________",
+      "question":"8. Centrifugal pumps transport fluids by converting _________",
       "answers":{
         "a":"Kinetic energy to hydrodynamic energy",
         "b":"Hydrodynamic energy to kinetic energy",
@@ -94,7 +94,7 @@
       "difficulty":"beginner"
     },
     {
-      "question":"The rotational kinetic energy comes from ______",
+      "question":"9. The rotational kinetic energy comes from ______",
       "answers":{
         "a":"Engine motor",
         "b":"Pump",
@@ -103,7 +103,7 @@
       },"correctAnswer":"a",
       "difficulty":"beginner"
     },{
-      "question":"The fluid coming into the centrifugal pump is accelerated by ________",
+      "question":"10. The fluid coming into the centrifugal pump is accelerated by ________",
       "answers":{
         "a":"Throttle",
         "b":"Impeller",
@@ -114,7 +114,7 @@
       "difficulty":"beginner"
     },
     {
-      "question":"The fundamental significance of all the turbomachinery is _______",
+      "question":"11. The fundamental significance of all the turbomachinery is _______",
       "answers":{
         "a":"Conservation of momentum",
         "b":"Conservation of mass",
@@ -125,7 +125,7 @@
       "difficulty":"beginner"
     },
     {
-      "question":"The change of angular momentum in a pump is equal to the _________",
+      "question":"12. The change of angular momentum in a pump is equal to the _________",
       "answers":{
         "a":"Sum of speeds",
         "b":"Sum of individual momentum",
@@ -136,7 +136,7 @@
       "difficulty":"beginner"
     },
     {
-      "question":"Conservation of angular momentum is described by _______",
+      "question":"13. Conservation of angular momentum is described by _______",
       "answers":{
         "a":"Newtons equation",
         "b":"Euler’s equation",
@@ -147,7 +147,7 @@
       "difficulty":"beginner"
     },
     {
-      "question":"Vertical Centrifugal pumps are also called as _________",
+      "question":"14. Vertical Centrifugal pumps are also called as _________",
       "answers":{
         "a":"Cantilever pumps",
         "b":"Hydrodynamic pump",
@@ -158,7 +158,7 @@
       "difficulty":"beginner"
     },
     {
-      "question":"With the increase in load, Energy in the turbine________",
+      "question":"15. With the increase in load, Energy in the turbine________",
       "answers":{
         "a":"Decreases",
         "b":"Increases",

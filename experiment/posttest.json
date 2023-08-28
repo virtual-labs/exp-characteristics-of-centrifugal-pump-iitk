@@ -3,7 +3,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The fluid gains _________ while passing through the impeller.",
+      "question": "1. The fluid gains _________ while passing through the impeller.",
       "answers": {
         "a": "Velocity",
         "b": "Pressure",
@@ -15,7 +15,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is the shape of the diffuser in the centrifugal pump?",
+      "question": "2. What is the shape of the diffuser in the centrifugal pump?",
       "answers": {
         "a": "Round",
         "b": "Dough nut",
@@ -27,7 +27,7 @@
       "difficulty": "beginner"
     },
     {
-      "question":"When the casing in a centrifugal pump decelerates the flow, what increases?",
+      "question":"3. When the casing in a centrifugal pump decelerates the flow, what increases?",
       "answers":{
         "a": "Pressure",
         "b": "Temperature",
@@ -37,7 +37,7 @@
       "correctAnswer":"a",
       "difficulty":"beginner"
     },{
-      "question": "The velocity imparted by the impeller is converted into _________",
+      "question": "4. The velocity imparted by the impeller is converted into _________",
       "answers":{
         "a": "Pressure energy",
         "b": "Kinetic energy",
@@ -48,7 +48,7 @@
       "difficulty":"beginner"
     },
     {
-      "question":"The consequence of Newtons second law is_________",
+      "question":"5. The consequence of Newtons second law is_________",
       "answers":{
         "a": "Conservation of angular momentum",
         "b": "Conservation of mass",
@@ -59,7 +59,7 @@
       "difficulty":"beginner"
     },
     {
-      "question": "Euler developed the head pressure equation in centrifugal pumps.",
+      "question": "6. Euler developed the head pressure equation in centrifugal pumps.",
       "answers":{
         "a":"True",
         "b": "False"
@@ -69,7 +69,7 @@
       "difficulty":"beginner"
     },
     {
-      "question":"What is a major advantage of centrifugal pump?",
+      "question":"7. What is a major advantage of centrifugal pump?",
       "answers":{
         "a": "Cost",
         "b":"Simple in construction",
@@ -80,7 +80,7 @@
       "difficulty":"beginner"
     },
     {
-      "question":"Centrifugal pumps are used to transport ________",
+      "question":"8. Centrifugal pumps are used to transport ________",
       "answers":{
         "a":"Pressure",
         "b":"Speed",
@@ -91,7 +91,7 @@
       "difficulty":"beginner"
     },
     {
-      "question":"Different velocities in a centrifugal pump are determined by using ________",
+      "question":"9. Different velocities in a centrifugal pump are determined by using ________",
       "answers":{
         "a":"Velocity triangle",
         "b":"Reynolds number",
@@ -102,7 +102,7 @@
       "difficulty":"beginner"
     },
     {
-      "question":"With the increase in the input power, efficiency _______",
+      "question":"10. With the increase in the input power, efficiency _______",
       "answers":{
         "a":"Increases",
         "b":"Decreases",
