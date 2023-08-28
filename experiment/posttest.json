@@ -1,39 +1,116 @@
 {
+
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The fluid gains _________ while passing through the impeller.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Velocity",
+        "b": "Pressure",
+        "c": "Temperature",
+        "d": "Velocity and pressure"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the shape of the diffuser in the centrifugal pump?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Round",
+        "b": "Dough nut",
+        "c": "Rectangle",
+        "d": "Cylindrical"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
+    },
+    {
+      "question":"When the casing in a centrifugal pump decelerates the flow, what increases?",
+      "answers":{
+        "a": "Pressure",
+        "b": "Temperature",
+        "c": "Volume",
+        "d":"Flow Rate"
+      },
+      "correctAnswer":"a",
+      "difficulty":"beginner"
+    },{
+      "question": "The velocity imparted by the impeller is converted into _________",
+      "answers":{
+        "a": "Pressure energy",
+        "b": "Kinetic energy",
+        "c": "Momentum",
+        "d": "Potential energy"
+      },
+      "correctAnswer": "a",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"The consequence of Newtons second law is_________",
+      "answers":{
+        "a": "Conservation of angular momentum",
+        "b": "Conservation of mass",
+        "c":"Conservation of potential energy",
+        "d": "Conservation of kinetic energy"
+      },
+      "correctAnswer":"a",
+      "difficulty":"beginner"
+    },
+    {
+      "question": "Euler developed the head pressure equation in centrifugal pumps.",
+      "answers":{
+        "a":"True",
+        "b": "False"
+        
+      },
+      "correctAnswer":"a",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"What is a major advantage of centrifugal pump?",
+      "answers":{
+        "a": "Cost",
+        "b":"Simple in construction",
+        "c": "Efficiency",
+        "d": "Pump parameters"
+      },
+      "correctAnswer":"b",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"Centrifugal pumps are used to transport ________",
+      "answers":{
+        "a":"Pressure",
+        "b":"Speed",
+        "c":"Power",
+        "d":"Fluid"
+      },
+      "correctAnswer":"d",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"Different velocities in a centrifugal pump are determined by using ________",
+      "answers":{
+        "a":"Velocity triangle",
+        "b":"Reynolds number",
+        "c":"Froude number",
+        "d":"Overall efficiency"
+      },
+      "correctAnswer":"a",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"With the increase in the input power, efficiency _______",
+      "answers":{
+        "a":"Increases",
+        "b":"Decreases",
+        "c":"Same",
+        "d":"Independent"
+      },
+      "correctAnswer":"b",
+      "difficulty":"beginner"
     }
   ]
-}
+  }
