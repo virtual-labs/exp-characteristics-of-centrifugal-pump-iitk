@@ -1,0 +1,308 @@
+
+      #struct {
+        position: relative;
+        height: 666px;
+        width: 800px;
+        border: 2px black solid;
+        
+      }
+      .baseimg{
+        position: relative;
+        top: 86px;
+        height: 412px;
+      }
+     
+      .offlight{
+        width:40px;
+        height:38px;
+        position: absolute;
+        top:64%;
+        left:75px;
+      }
+      #on{
+        position: absolute;
+        top:40%;
+        left:70px;
+      }
+     
+     #led{
+      visibility: visible;
+     }
+      #blink{
+        width: 40px;
+    height: 36px;
+    position: absolute;
+    top: 64%;
+    left: 74px;
+        
+      }
+      #value{
+        position: absolute;
+       right:60;
+      font-weight: bold;
+   
+       top: 100;
+      }
+      #value2{
+        position: absolute;
+        right:60;
+      font-weight: bold;
+   
+       top: 120;
+      }
+      .container {
+        display: flex;
+        flex-direction: row;
+      }
+      .valve {
+        height: 30px;
+        width: 30px;
+        position: absolute;
+
+        border: none;
+        background-color: transparent;
+        background-image: url("../images/valve.svg");
+        background-size: 100%;
+        transition-property: transform;
+        transition-duration: 1s;
+        outline: none;
+      }
+      #outlet {
+           top: 298px;
+    left: 100px;
+      }
+      #motbut {
+        top: 298px;
+        left: 58px;
+    
+      }
+      #outlab {
+        opacity: 0;
+        top: 180;
+        left: 570;
+        background-color: rgb(230, 230, 62);
+        border: 1px black solid;
+      }
+      #motlab {
+        top: 380px;
+        left: 15px;
+        background-color: rgb(230, 230, 62);
+        border: 1px black solid;
+      }
+      #gatelab {
+        opacity: 0;
+        top: 323px;
+    left: 359px;
+        background-color: rgb(230, 230, 62);
+        border: 1px black solid;
+      }
+      #gatebut {
+        top: 395px;
+        left: 570px;
+      }
+      label {
+        position: absolute;
+      }
+      #labFlow {
+        top: 290px;
+        left: 680px;
+        background-color: rgb(230, 230, 62);
+        border: 1px black solid;
+      }
+      #timer {
+        position: absolute;
+        top: 256px;
+        right: 100px;
+        height: 100px;
+        width: 100px;
+        font-size: 28px;
+      }
+      #piezoDiv {
+        position: absolute;
+        top: 30px;
+        left: 250px;
+        font-size: 12px;
+        font-weight: bold;
+      }
+      #piezoDiv2 {
+        position: absolute;
+        top: 30px;
+        left: 430px;
+        font-size: 12px;
+        font-weight: bold;
+      }
+      .timer {
+        font-family: sans-serif;
+        display: inline-block;
+       
+        position: relative;
+          bottom: 400px;
+          right: 190px;
+      }
+      
+      .timer__part {
+        font-size: 26px;
+    font-weight: bold;
+    position: relative;
+    top: 250px;
+    right: 44px;
+      }
+      
+      .timer__btn {
+        width: 50px;
+        height: 50px;
+        margin-left: 19px;
+        border-radius: 50%;
+        border: none;
+        color: white;
+        position: relative;
+        top: 236px;
+        right: -16px;
+        background-color: violet;
+        cursor: pointer;
+      }
+      
+      .timer__btn--start {
+        background: #00b84c;
+      }
+      
+      .timer__btn--stop {
+        background: #ff0256;
+        
+      }
+      
+      .para{
+        background-color: yellow;
+        position: absolute;
+        top: 43%;
+    left: 200px;
+      }
+       .para1{
+        background-color: yellow;
+        position: absolute;
+        top: 43%;
+        left: 246px;
+       }    
+
+.container {
+	background-size: cover;
+  background: rgb(226,226,226); /* Old browsers */
+  background: -moz-linear-gradient(top,  rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(254,254,254,1) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(226,226,226,1)), color-stop(50%,rgba(219,219,219,1)), color-stop(51%,rgba(209,209,209,1)), color-stop(100%,rgba(254,254,254,1))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  rgba(226,226,226,1) 0%,rgba(219,219,219,1) 50%,rgba(209,209,209,1) 51%,rgba(254,254,254,1) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  rgba(226,226,226,1) 0%,rgba(219,219,219,1) 50%,rgba(209,209,209,1) 51%,rgba(254,254,254,1) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  rgba(226,226,226,1) 0%,rgba(219,219,219,1) 50%,rgba(209,209,209,1) 51%,rgba(254,254,254,1) 100%); /* IE10+ */
+  background: linear-gradient(to bottom,  rgba(226,226,226,1) 0%,rgba(219,219,219,1) 50%,rgba(209,209,209,1) 51%,rgba(254,254,254,1) 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#fefefe',GradientType=0 ); /* IE6-9 */
+  padding: 20px;
+}
+
+
+.rpm_reading{
+  font-size: 17px;
+  position: relative;
+  display: flex;
+  float: left;
+  bottom: 103px;
+  
+  left: 70px;
+}
+.timer__btn--stop{
+  position: relative;
+}
+.rpm_reading2{
+  font-size: 17px;
+  position: relative;
+      /* display: flex; */
+    /* float: left; */
+    bottom: 79px;
+    /* left: 70px; */
+    right: 330px;
+}
+
+.button-cover:before
+{
+    counter-increment: button-counter;
+    content: counter(button-counter);
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    color: #d7e3e3;
+    font-size: 12px;
+    line-height: 1;
+    padding: 5px;
+}
+
+.button-cover, .knobs, .layer
+{
+    position: absolute;
+    top: 0;
+
+    bottom: 0;
+    
+}
+
+.button
+{
+    position: relative;
+    left:40px;
+    top: 44%;
+    width: 74px;
+    height: 36px;
+    margin: -20px auto 0 auto;
+    overflow: hidden;
+}
+
+.button.r, .button.r .layer
+{
+    border-radius: 100px;
+}
+
+.button.b2
+{
+    border-radius: 2px;
+}
+#table {
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#table h3{
+  margin-left:10%;
+}
+td,
+th {
+  border: 1px solid #0a0a0a;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #c6fff3;
+}
+#table h2 {
+  text-align: center;
+  color: #0a0a0a;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.tab-button {
+  margin-top: 2rem;
+  background-color: cadetblue;
+  border: none;
+  color: darkmagenta;
+  width: 8rem;
+  height: 3rem;
+  border: 1px solid black;
+}
+.tab-button:hover {
+  background: cornflowerblue;
+  color: black;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+   
+   
