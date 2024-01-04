@@ -1,0 +1,116 @@
+{
+
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. The fluid gains _________ while passing through the impeller.",
+      "answers": {
+        "a": "Velocity",
+        "b": "Pressure",
+        "c": "Temperature",
+        "d": "Velocity and pressure"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. What is the shape of the diffuser in the centrifugal pump?",
+      "answers": {
+        "a": "Round",
+        "b": "Dough nut",
+        "c": "Rectangle",
+        "d": "Cylindrical"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question":"3. When the casing in a centrifugal pump decelerates the flow, what increases?",
+      "answers":{
+        "a": "Pressure",
+        "b": "Temperature",
+        "c": "Volume",
+        "d":"Flow Rate"
+      },
+      "correctAnswer":"a",
+      "difficulty":"beginner"
+    },{
+      "question": "4. The velocity imparted by the impeller is converted into _________",
+      "answers":{
+        "a": "Pressure energy",
+        "b": "Kinetic energy",
+        "c": "Momentum",
+        "d": "Potential energy"
+      },
+      "correctAnswer": "a",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"5. The consequence of Newtons second law is_________",
+      "answers":{
+        "a": "Conservation of angular momentum",
+        "b": "Conservation of mass",
+        "c":"Conservation of potential energy",
+        "d": "Conservation of kinetic energy"
+      },
+      "correctAnswer":"a",
+      "difficulty":"beginner"
+    },
+    {
+      "question": "6. Euler developed the head pressure equation in centrifugal pumps.",
+      "answers":{
+        "a":"True",
+        "b": "False"
+        
+      },
+      "correctAnswer":"a",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"7. What is a major advantage of centrifugal pump?",
+      "answers":{
+        "a": "Cost",
+        "b":"Simple in construction",
+        "c": "Efficiency",
+        "d": "Pump parameters"
+      },
+      "correctAnswer":"b",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"8. Centrifugal pumps are used to transport ________",
+      "answers":{
+        "a":"Pressure",
+        "b":"Speed",
+        "c":"Power",
+        "d":"Fluid"
+      },
+      "correctAnswer":"d",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"9. Different velocities in a centrifugal pump are determined by using ________",
+      "answers":{
+        "a":"Velocity triangle",
+        "b":"Reynolds number",
+        "c":"Froude number",
+        "d":"Overall efficiency"
+      },
+      "correctAnswer":"a",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"10. With the increase in the input power, efficiency _______",
+      "answers":{
+        "a":"Increases",
+        "b":"Decreases",
+        "c":"Same",
+        "d":"Independent"
+      },
+      "correctAnswer":"b",
+      "difficulty":"beginner"
+    }
+  ]
+  }
