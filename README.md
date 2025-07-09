@@ -3,22 +3,48 @@
 
 <b>Discipline | <b>Chemical Engineering
 :--|:--|
-<b> Lab | <b> Chemical Engineering Fluid Mechanics Lab
+<b> Lab | <b> Fluid Mechanics Lab
 <b> Experiment|     <b> To study the characteristics of a centrifugal pump
+
+### About the Lab (objective):
+The Fluid Mechanics Lab is designed to provide Chemical Engineering students with hands-on experience in understanding the behaviour of fluids under various conditions. The primary objective is to equip students with practical knowledge of fundamental fluid mechanics concepts and their applications in chemical and process industries. Through experimental work, students learn to analyze fluid flow, measure fluid properties, and evaluate performance characteristics of fluid handling equipment.
 
 ### About the Experiment 
 
-The hydraulic machines, which convert the mechanical energy into hydraulic energy, are called pumps. The hydraulic energy is in the form of pressure energy. If the mechanical energy is converted in to pressure energy bymeans of centrifugal force acting on the fluid, the hydraulic machine is called centrifugal pump. The centrifugal pump acts as a reversed of n inward radial flow reaction turbine. This means that the flow in centrifugal pumps is in the radial outward directions. The centrifugal pumps works on the principal of forced vertex flow, which means that an external torque rotates a certain mass of liquid, the rise in pressure head of the rotating liquid, the rise in pressure head of the rotating liquid takes place. The rise in pressure head at any point of the rotating liquid is proportional to the square of tangential velocity of (i.e. rise in pressure head-V²/2g or 'r/2g) the liquid at that point. Thus at the outlet of the impeller where radius is more, the rise in pressure head will be more and the liquid will be lifted to a high level. Centrifugal pump is a mechanical device, which consists of a body, impeller and a rotating mean e. Motor, Engine etc. impeller rolates in a stationary body and sucks the fluid through its axes and delivers through its periphery. Impeller has an inlet angle, outlet angle and peripheral speed, which affect the head and discharge. Impeller is rotated by motor or i.c engine or any other device.
+This experiment involves studying the characteristics of a centrifugal pump by measuring parameters such as discharge, head, and input power at various operating conditions. It helps evaluate the pump's efficiency and performance curves. The analysis is crucial for pump selection, system design, and understanding energy transfer in fluid machinery used in chemical and process industries.
 
-<b>Name of Developer | <b> Dr. Neha Sharma 
+### Target Audience :
+Chemical Engineering/science students, faculty members & industry persons
+
+### Course Alignment : 
+This lab is aligned with core and applied courses such as Fluid Mechanics, Momentum Transfer, and Transport Phenomena. It reinforces theoretical concepts related to fluid flow behaviour, pressure dynamics, and hydraulic equipment performance, supporting students' understanding of fluid systems in chemical process design, reactor engineering, and equipment selection.
+
+### Universities Mapped :
+• Dr. A.P.J. Abdul Kalam Technical University, Lucknow <br>
+• Panjab University	<br>
+• Harcourt Butler Technical University (HBTU), Kanpur	<br>
+• National Institute of Technology Calicut	<br>
+• National Institute of Technology Raipur	<br>
+• Guru Gobind Singh Indraprastha University Delhi (USCT)	<br>
+• Assam Engineering College Assam <br><br>
+
+
+<b>Name of Developer | <b>  Dr. Zeenat Arif
 :--|:--|
-<b> Institute | <b>  Meerut Institute of Engineering and Technology, Meerut
-<b> Email id|     <b>  	nsharma.iitr@gmail.com
-<b> Department |  	Chemical Engineering
+<b> Institute | <b> Harcourt Butler Technical University, Kanpur
+<b> Email id|     <b>  dariflt@hbtu.ac.in
+<b> Department |  Chemical Engineering
+
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 |Satyam Sangwan |Student | CSE(AI/ML)| Meerut Institute of Engineering and Technology, Meerut |sangwanmadhu2003@gmail.com
+1 | Dr. Zeenat Arif | Faculty | Chemical Engineering | Harcourt Butler Technical University, Kanpur | dariflt@hbtu.ac.in
+2 | Prof. Vivek Kumar | Faculty| Food Technology | Harcourt Butler Technical University, Kanpur | viveksachan99@gmail.com
+3 | Er. Anjali Srivastava | Faculty | Food Technology | Institute of Engineering & Technology, Bundelkhand University, Jhansi | fetbujhansi@gmail.com
+4 | Dr. Anupam Vyas  | Faculty | Electronics & Communication Engineering | Institute of Engineering & Technology, Bundelkhand University, Jhansi | dr.anupam@bujhansi.ac.in
+5 | Dr. Sanjeev Kumar Shrivastava  | Faculty | Physics | Bundelkhand University, Jhansi | sksphys7@gmail.com
+6 | Deepak Maurya | Student | Computer Science & Engineering | Institute of Engineering & Technology, Bundelkhand University, Jhansi | deepakmaurya55936@gmail.com
+
 
