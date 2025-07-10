@@ -3,12 +3,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Centrifugal pump is a_________",
+      "question": "1. What is the primary function of a centrifugal pump?",
       "answers": {
-        "a": "Turbomachinery",
-        "b": "Flow regulating device",
-        "c": "Drafting device",
-        "d": "Intercooling device"
+        "a": "To increase fluid pressure ",
+        "b": "To decrease fluid temperature ",
+        "c": "To transfer fluid from a lower to a higher elevation ",
+        "d": "To increase fluid velocity"
       },
     
       "correctAnswer": "a",
@@ -16,156 +16,48 @@
     },
   
     {
-      "question":"2. Turbomachines work under ________",
+      "question":"2. In a centrifugal pump, the fluid enters the impeller in which direction? ",
       "answers":{
-        "a":"Newtons first law",
-        "b":"Newtons second law",
-        "c":"Newtons third law",
-        "d":"Kepler’s law"
+        "a":"Axial ",
+        "b":"Radial ",
+        "c":"Tangential ",
+        "d":"Any direction "
+      },
+      "correctAnswer":"a",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"3. What does the term 'specific speed' refer to in centrifugal pump performance?",
+      "answers":{
+        "a":"The speed of the pump shaft ",
+        "b":"A dimensionless parameter that characterizes pump geometry and performance ",
+        "c":"The speed at which cavitation occurs",
+        "d":"The speed at which the pump reaches maximum efficiency "
       },
       "correctAnswer":"b",
       "difficulty":"beginner"
     },
     {
-      "question":"3. The main function of centrifugal pumps are to ________",
+      "question":"4. What is the main purpose of the casing in a centrifugal pump?",
       "answers":{
-        "a":"Transfer speed",
-        "b":"Transfer pressure",
-        "c":"Transfer temperature",
-        "d":"Transfer energy"
+        "a":"To house the impeller ",
+        "b":"To convert kinetic energy into pressure energy ",
+        "c":"To guide the flow of fluid ",
+        "d":"All of the above"
+        
       },
       "correctAnswer":"d",
       "difficulty":"beginner"
     },
     {
-      "question":"4. Centrifugal pumps transfer energy from _______",
+      "question":"5. Which of the following is NOT a factor affecting centrifugal pump efficiency? ",
       "answers":{
-        "a":"Rotor to fluid",
-        "b":"Fluid to rotor",
-        "c":"Draft to rotor",
-        "d":"Rotor to draft"
-        
-      },
-      "correctAnswer":"a",
-      "difficulty":"beginner"
-    },
-    {
-      "question":"5. Which among the following control the flow rate?",
-      "answers":{
-        "a":"Valve",
-        "b":"Pump",
-        "c":"Head",
-        "d":"Tank pipe"
-      },
-      "correctAnswer":"a",
-      "difficulty":"beginner"
-    },{
-      "question":"6. The inlet passage of water entry is controlled by ________",
-      "answers":{
-        "a": "Head race",
-        "b": "Gate",
-        "c": "Tail race",
-        "d": "Pump"
-        
-      },
-      "correctAnswer":"b",
-      "difficulty":"beginner"
-    },
-    {
-      "question":"7. Centrifugal pumps are used to transport ________",
-      "answers":{
-        "a":"Pressure",
-        "b":"Speed",
-        "c":"Power",
-        "d":"Fluid"
+        "a":"Fluid viscosity ",
+        "b":"Pump speed ",
+        "c":"Impeller vane angle ",
+        "d":"Inlet temperature "
       },
       "correctAnswer":"d",
-      "difficulty":"beginner"
-    },
-    {
-      "question":"8. Centrifugal pumps transport fluids by converting _________",
-      "answers":{
-        "a":"Kinetic energy to hydrodynamic energy",
-        "b":"Hydrodynamic energy to kinetic energy",
-        "c":"Mechanical energy to kinetic energy",
-        "d":"Mechanical energy to Hydrodynamic energy"
-      },
-      "correctAnswer":"a",
-      "difficulty":"beginner"
-    },
-    {
-      "question":"9. The rotational kinetic energy comes from ______",
-      "answers":{
-        "a":"Engine motor",
-        "b":"Pump",
-        "c":"Tank",
-        "d":"Draft tube"
-      },"correctAnswer":"a",
-      "difficulty":"beginner"
-    },{
-      "question":"10. The fluid coming into the centrifugal pump is accelerated by ________",
-      "answers":{
-        "a":"Throttle",
-        "b":"Impeller",
-        "c":"Nozzle",
-        "d":"Governor"
-      },
-      "correctAnswer":"b",
-      "difficulty":"beginner"
-    },
-    {
-      "question":"11. The fundamental significance of all the turbomachinery is _______",
-      "answers":{
-        "a":"Conservation of momentum",
-        "b":"Conservation of mass",
-        "c":"Conservation of heat",
-        "d":"Conservation of speed"
-      },
-      "correctAnswer":"a",
-      "difficulty":"beginner"
-    },
-    {
-      "question":"12. The change of angular momentum in a pump is equal to the _________",
-      "answers":{
-        "a":"Sum of speeds",
-        "b":"Sum of individual momentum",
-        "c":"Sum of temperatures",
-        "d":"Sum of energy transferred from a body"
-      },
-      "correctAnswer":"b",
-      "difficulty":"beginner"
-    },
-    {
-      "question":"13. Conservation of angular momentum is described by _______",
-      "answers":{
-        "a":"Newtons equation",
-        "b":"Euler’s equation",
-        "c":"Rutherford’s equation",
-        "d":"Maxim equation"
-      },
-      "correctAnswer":"b",
-      "difficulty":"beginner"
-    },
-    {
-      "question":"14. Vertical Centrifugal pumps are also called as _________",
-      "answers":{
-        "a":"Cantilever pumps",
-        "b":"Hydrodynamic pump",
-        "c":"Mechanical pump",
-        "d":"Hydroelectric pump"
-      },
-      "correctAnswer":"a",
-      "difficulty":"beginner"
-    },
-    {
-      "question":"15. With the increase in load, Energy in the turbine________",
-      "answers":{
-        "a":"Decreases",
-        "b":"Increases",
-        "c":"Remains same",
-        "d":"Independent"
-      },
-      "correctAnswer":"a",
       "difficulty":"beginner"
     }
   ]
