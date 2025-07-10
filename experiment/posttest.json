@@ -3,111 +3,57 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. The fluid gains _________ while passing through the impeller.",
+      "question": "1. What is the relationship between head and flow rate in a centrifugal pump?",
       "answers": {
-        "a": "Velocity",
-        "b": "Pressure",
-        "c": "Temperature",
-        "d": "Velocity and pressure"
+        "a": "Head increases proportionally with flow rate ",
+        "b": "Head decreases proportionally with flow rate ",
+        "c": "Head increases with the square of the flow rate ",
+        "d": "Head decreases with the square of the flow rate "
       },
       
-      "correctAnswer": "d",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "2. What is the shape of the diffuser in the centrifugal pump?",
+      "question": "2. Which of the following is a typical characteristic of a centrifugal pump's performance curve? ",
       "answers": {
-        "a": "Round",
-        "b": "Dough nut",
-        "c": "Rectangle",
-        "d": "Cylindrical"
+        "a": "Efficiency increases linearly with flow rate ",
+        "b": "Power consumption decreases with increasing flow rate ",
+        "c": "Head decreases with increasing flow rate ",
+        "d": "Flow rate is independent of speed "
       },
       
-      "correctAnswer": "b",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question":"3. When the casing in a centrifugal pump decelerates the flow, what increases?",
+      "question":"3. What is the term for the minimum pressure at the pump inlet that prevents cavitation? ",
       "answers":{
-        "a": "Pressure",
-        "b": "Temperature",
-        "c": "Volume",
-        "d":"Flow Rate"
+        "a": "Static head ",
+        "b": "Dynamic head",
+        "c": "NPSH",
+        "d": "Total dynamic head"
       },
-      "correctAnswer":"a",
+      "correctAnswer":"c",
       "difficulty":"beginner"
     },{
-      "question": "4. The velocity imparted by the impeller is converted into _________",
+      "question": "4. How does increasing the impeller diameter affect the pump's performance? ",
       "answers":{
-        "a": "Pressure energy",
-        "b": "Kinetic energy",
-        "c": "Momentum",
-        "d": "Potential energy"
+        "a": "Decreases head and flow rate ",
+        "b": "Increases head and flow rate ",
+        "c": "Increases head but decreases flow rate ",
+        "d": "Decreases head but increases flow rate "
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty":"beginner"
     },
     {
-      "question":"5. The consequence of Newtons second law is_________",
+      "question":"5. What is the best way to control the flow rate of a centrifugal pump?",
       "answers":{
-        "a": "Conservation of angular momentum",
-        "b": "Conservation of mass",
-        "c":"Conservation of potential energy",
-        "d": "Conservation of kinetic energy"
-      },
-      "correctAnswer":"a",
-      "difficulty":"beginner"
-    },
-    {
-      "question": "6. Euler developed the head pressure equation in centrifugal pumps.",
-      "answers":{
-        "a":"True",
-        "b": "False"
-        
-      },
-      "correctAnswer":"a",
-      "difficulty":"beginner"
-    },
-    {
-      "question":"7. What is a major advantage of centrifugal pump?",
-      "answers":{
-        "a": "Cost",
-        "b":"Simple in construction",
-        "c": "Efficiency",
-        "d": "Pump parameters"
-      },
-      "correctAnswer":"b",
-      "difficulty":"beginner"
-    },
-    {
-      "question":"8. Centrifugal pumps are used to transport ________",
-      "answers":{
-        "a":"Pressure",
-        "b":"Speed",
-        "c":"Power",
-        "d":"Fluid"
-      },
-      "correctAnswer":"d",
-      "difficulty":"beginner"
-    },
-    {
-      "question":"9. Different velocities in a centrifugal pump are determined by using ________",
-      "answers":{
-        "a":"Velocity triangle",
-        "b":"Reynolds number",
-        "c":"Froude number",
-        "d":"Overall efficiency"
-      },
-      "correctAnswer":"a",
-      "difficulty":"beginner"
-    },
-    {
-      "question":"10. With the increase in the input power, efficiency _______",
-      "answers":{
-        "a":"Increases",
-        "b":"Decreases",
-        "c":"Same",
-        "d":"Independent"
+        "a": "By varying the pump speed ",
+        "b": "By throttling the discharge valve ",
+        "c": "By changing the impeller diameter ",
+        "d": "By adding more fluid to the system"
       },
       "correctAnswer":"b",
       "difficulty":"beginner"
