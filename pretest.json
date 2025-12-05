@@ -1,0 +1,64 @@
+{
+
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. What is the primary function of a centrifugal pump?",
+      "answers": {
+        "a": "To increase fluid pressure ",
+        "b": "To decrease fluid temperature ",
+        "c": "To transfer fluid from a lower to a higher elevation ",
+        "d": "To increase fluid velocity"
+      },
+    
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+  
+    {
+      "question":"2. In a centrifugal pump, the fluid enters the impeller in which direction? ",
+      "answers":{
+        "a":"Axial ",
+        "b":"Radial ",
+        "c":"Tangential ",
+        "d":"Any direction "
+      },
+      "correctAnswer":"a",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"3. What does the term 'specific speed' refer to in centrifugal pump performance?",
+      "answers":{
+        "a":"The speed of the pump shaft ",
+        "b":"A dimensionless parameter that characterizes pump geometry and performance ",
+        "c":"The speed at which cavitation occurs",
+        "d":"The speed at which the pump reaches maximum efficiency "
+      },
+      "correctAnswer":"b",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"4. What is the main purpose of the casing in a centrifugal pump?",
+      "answers":{
+        "a":"To house the impeller ",
+        "b":"To convert kinetic energy into pressure energy ",
+        "c":"To guide the flow of fluid ",
+        "d":"All of the above"
+        
+      },
+      "correctAnswer":"d",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"5. Which of the following is NOT a factor affecting centrifugal pump efficiency? ",
+      "answers":{
+        "a":"Fluid viscosity ",
+        "b":"Pump speed ",
+        "c":"Impeller vane angle ",
+        "d":"Inlet temperature "
+      },
+      "correctAnswer":"d",
+      "difficulty":"beginner"
+    }
+  ]
+  }
