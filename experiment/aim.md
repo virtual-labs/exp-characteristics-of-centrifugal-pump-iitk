@@ -1,1 +1,1 @@
-### Aim of the experiment
+To determine performance characteristics of centrifugal pump

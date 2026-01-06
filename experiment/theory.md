@@ -1,1 +1,4 @@
-### Link your theory in here
+Centrifugal pump is a roto-dynamic machine that imparts energy to fluid by rotating impeller to increase the pressure of a fluid. These pumps are commonly used to move liquids through a piping system. When the fluid enters the pump impeller along or near to the rotating axis it is accelerated by the impeller, flowing radially outward into a diffuser or volute chamber (casing), from where it exits into the downstream piping system. Centrifugal pumps are used for large discharge through smaller heads.<br>
+The fluid enters the inlet of the centrifugal pump under atmospheric pressure, and flows into the eye of the impeller. The Centrifugal force exerted on the liquid by the rotating impeller, moves the liquid away from the impeller eye and out along the impeller vanes to their extreme tip where the liquid is then forced against the inside walls of the volute and out through the discharge of the pump.<br>
+
+<img src = "images/img_1.png">

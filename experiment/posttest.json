@@ -1,39 +1,62 @@
 {
+
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. What is the relationship between head and flow rate in a centrifugal pump?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Head increases proportionally with flow rate ",
+        "b": "Head decreases proportionally with flow rate ",
+        "c": "Head increases with the square of the flow rate ",
+        "d": "Head decreases with the square of the flow rate "
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Which of the following is a typical characteristic of a centrifugal pump's performance curve? ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Efficiency increases linearly with flow rate ",
+        "b": "Power consumption decreases with increasing flow rate ",
+        "c": "Head decreases with increasing flow rate ",
+        "d": "Flow rate is independent of speed "
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question":"3. What is the term for the minimum pressure at the pump inlet that prevents cavitation? ",
+      "answers":{
+        "a": "Static head ",
+        "b": "Dynamic head",
+        "c": "NPSH",
+        "d": "Total dynamic head"
+      },
+      "correctAnswer":"c",
+      "difficulty":"beginner"
+    },{
+      "question": "4. How does increasing the impeller diameter affect the pump's performance? ",
+      "answers":{
+        "a": "Decreases head and flow rate ",
+        "b": "Increases head and flow rate ",
+        "c": "Increases head but decreases flow rate ",
+        "d": "Decreases head but increases flow rate "
+      },
+      "correctAnswer": "b",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"5. What is the best way to control the flow rate of a centrifugal pump?",
+      "answers":{
+        "a": "By varying the pump speed ",
+        "b": "By throttling the discharge valve ",
+        "c": "By changing the impeller diameter ",
+        "d": "By adding more fluid to the system"
+      },
+      "correctAnswer":"b",
+      "difficulty":"beginner"
     }
   ]
-}
+  }
